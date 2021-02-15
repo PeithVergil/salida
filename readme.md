@@ -17,5 +17,5 @@ cd /path/to/Movie && python -m pip -r requirements.txt
 Running one of the projects:
 
 ```
-cd /path/to/Movie && python -m sculpt1
+cd /path/to/Movie && python -m salida.sculpt1
 ```
